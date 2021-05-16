@@ -9,3 +9,5 @@ Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
   + [execute-functions](https://github.com/kiselev-nikolay/execute-functions) &mdash; RESTscript implementation with a Go executor in WASM
   + [restscript](https://github.com/kiselev-nikolay/restscript) &mdash; example of a DSL on the client. TypeScript with nearley grammar parsing toolkit
 + [go-test-docker-dependencies](https://github.com/kiselev-nikolay/go-test-docker-dependencies) &mdash; Go test docker dependencies is used to declare the dependencies required to run the test with something running in docker
+
+![kiselev-nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiselev-nikolay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
