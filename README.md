@@ -1,5 +1,8 @@
 ### Hi there 👋
-Full-stack web developer. High-load SRE, 1 year expirence. Go developer, 1+ year expirence. Previously Python Senior Developer, Team Lead, 4 year expirence. Typescript developer, 4+ year expirence. React and React Native, 1+ year expirence. Previously VueJS developer, 3 year expirence. Well know Kubernetes, Linux, Docker, PostgreSQL, MySQL, InfluxDB, Scylla, Redis, MongoDB, RabbitMQ, Traefik, Ansible, C++, Arduino, Tensorflow, PyTorch.
+
+I'm Nikolai, a developer who focuses on launching new projects and startups the right way.
+
+Full-stack web developer. Go developer, 1+ year expirence: gRPC, Protobuf, Gin, Bitcask, Gorm, go-reform, WASM. High-load SRE, 1 year expirence. Previously Python Senior Developer, Team Lead, 4 year expirence. Typescript developer, 4+ year expirence. React and React Native, 1+ year expirence. Previously VueJS developer, 3 year expirence. Well know Kubernetes, Linux, Docker, PostgreSQL, MySQL, InfluxDB, Scylla, Redis, MongoDB, RabbitMQ, Traefik, Ansible, C++, Arduino, Tensorflow, PyTorch.
 
 Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
 
