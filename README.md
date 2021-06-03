@@ -7,6 +7,7 @@ Full-stack web developer. Go developer, 1+ year expirence: gRPC, Protobuf, Gin, 
 Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
 
 ### My projects
++ [Go Party Pool](https://github.com/kiselev-nikolay/go-party-pool) &mdash; library that helps make it easier to create a workers pools.
 + [inflr](https://github.com/kiselev-nikolay/inflr-be) &mdash; MVP of an app that will help Influencers. A private pet project that I made public because it turned out not to be promising as a business. [See more](https://nikolai.works/inflrappv1)
 + [direct-to-me](https://github.com/kiselev-nikolay/direct-to-me) &mdash; Self-hosted application for redirecting user or application data in the background. See [Readme](https://github.com/kiselev-nikolay/direct-to-me) for details. Source code written in Go, TypeScript. React frontend. __👨‍🏭 Looking for contributors!__
 + RESTscript &mdash; The RESTscript is a DSL language to simplify the programming of a series of HTTP requests.
