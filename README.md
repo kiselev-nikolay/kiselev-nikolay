@@ -16,3 +16,7 @@ Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
 + [Go Test Docker Dependencies](https://github.com/kiselev-nikolay/go-test-docker-dependencies) &mdash; Go test docker dependencies is used to declare the dependencies required to run the test with something running in docker
 
 ![kiselev-nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiselev-nikolay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+#### BTW
+
++ I made a Gin <img width="15px" src="https://raw.githubusercontent.com/kiselev-nikolay/logo/master/color.png"> [logo proposal: Fancy one](https://github.com/gin-gonic/logo/pull/6)
