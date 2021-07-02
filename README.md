@@ -20,4 +20,4 @@ Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
 #### BTW
 
 + I made a Gin <img width="15px" src="https://raw.githubusercontent.com/kiselev-nikolay/logo/master/color.png"> [logo proposal: Fancy one](https://github.com/gin-gonic/logo/pull/6)
-+ Check out my [fish.conig](https://gist.github.com/kiselev-nikolay/156e7686c3a0e9020576d86602616165)
++ Check out my [workstation setup](https://github.com/kiselev-nikolay/nikolai-workstation)
