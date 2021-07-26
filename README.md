@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" width="360px" src="https://user-images.githubusercontent.com/55307887/127009950-113a9b1c-de53-4981-b75b-883ec0ae10e0.png">
+
 I'm Nikolai, a developer who focuses on launching new projects and startups the right way.
 
 Full-stack web developer. Go developer, 1+ year expirence: gRPC, Protobuf, Gin, Bitcask, Gorm, go-reform, WASM. High-load SRE, 1 year expirence. Previously Python Senior Developer, Team Lead, 4 year expirence. Typescript developer, 4+ year expirence. React and React Native, 1+ year expirence. Previously VueJS developer, 3 year expirence. Well know Kubernetes, Linux, Docker, PostgreSQL, MySQL, InfluxDB, Scylla, Redis, MongoDB, RabbitMQ, Traefik, Ansible, C++, Arduino, Tensorflow, PyTorch.
@@ -15,9 +17,12 @@ Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
   + [restscript](https://github.com/kiselev-nikolay/restscript) &mdash; example of a DSL on the client. TypeScript with nearley grammar parsing toolkit
 + [Go Test Docker Dependencies](https://github.com/kiselev-nikolay/go-test-docker-dependencies) &mdash; Go test docker dependencies is used to declare the dependencies required to run the test with something running in docker
 
-![kiselev-nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiselev-nikolay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 #### BTW
 
 + I made a Gin <img width="15px" src="https://raw.githubusercontent.com/kiselev-nikolay/logo/master/color.png"> [logo proposal: Fancy one](https://github.com/gin-gonic/logo/pull/6)
 + Check out my [workstation setup](https://github.com/kiselev-nikolay/nikolai-workstation)
+
+
+---
+
+![kiselev-nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiselev-nikolay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
