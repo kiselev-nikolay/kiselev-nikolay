@@ -6,7 +6,7 @@ I'm Nikolai, a developer who focuses on launching new projects and startups the 
 
 Full-stack web developer. Go developer, 1+ year expirence: gRPC, Protobuf, Gin, Bitcask, Gorm, go-reform, WASM. High-load SRE, 1 year expirence. Previously Python Senior Developer, Team Lead, 4 year expirence. Typescript developer, 4+ year expirence. React and React Native, 1+ year expirence. Previously VueJS developer, 3 year expirence. Well know Kubernetes, Linux, Docker, PostgreSQL, MySQL, InfluxDB, Scylla, Redis, MongoDB, RabbitMQ, Traefik, Ansible, C++, Arduino, Tensorflow, PyTorch.
 
-Direct contacts: [nikolai.works/contact](https://nikolai.works/contact)
+Direct contacts: ic.nikolai.kiselev@gmail.com [nikolai.works](https://nikolai.works)
 
 ### My projects
 + [Go Party Pool](https://github.com/kiselev-nikolay/go-party-pool) &mdash; library that helps make it easier to create a workers pools.
