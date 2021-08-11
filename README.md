@@ -9,7 +9,8 @@ Full-stack web developer. Go developer, 1+ year expirence: gRPC, Protobuf, Gin, 
 Direct contacts: ic.nikolai.kiselev@gmail.com [nikolai.works](https://nikolai.works)
 
 ### My projects
-+ [Go Party Pool](https://github.com/kiselev-nikolay/go-party-pool) &mdash; library that helps make it easier to create a workers pools.
++ [Go Try](https://github.com/kiselev-nikolay/try) <img width="16px" src="https://user-images.githubusercontent.com/55307887/129087852-317182cf-ef93-4fe6-a856-2d3d37952b8f.png"> &mdash; Go package that enhances Go's error handling capabilities in microservices with complex partitioning into multiple layers.
++ [Go Party Pool](https://github.com/kiselev-nikolay/go-party-pool) <img width="16px" src="https://github.com/kiselev-nikolay/go-party-pool/raw/main/docs/gppl.png"> &mdash; library that helps make it easier to create a workers pools.
 + [Inflr app](https://github.com/kiselev-nikolay/inflr-be) &mdash; MVP of an app that will help Influencers. A private pet project that I made public because it turned out not to be promising as a business. [See more](https://nikolai.works/inflrappv1)
 + [Direct to me](https://github.com/kiselev-nikolay/direct-to-me) &mdash; Self-hosted application for redirecting user or application data in the background. See [Readme](https://github.com/kiselev-nikolay/direct-to-me) for details. Source code written in Go, TypeScript. React frontend. __👨‍🏭 Looking for contributors!__
 + RESTscript &mdash; The RESTscript is a DSL language to simplify the programming of a series of HTTP requests.
@@ -19,7 +20,7 @@ Direct contacts: ic.nikolai.kiselev@gmail.com [nikolai.works](https://nikolai.wo
 
 #### BTW
 
-+ I made a Gin <img width="15px" src="https://raw.githubusercontent.com/kiselev-nikolay/logo/master/color.png"> [logo proposal: Fancy one](https://github.com/gin-gonic/logo/pull/6)
++ I made a Gin <img width="16px" src="https://raw.githubusercontent.com/kiselev-nikolay/logo/master/color.png"> [logo proposal: Fancy one](https://github.com/gin-gonic/logo/pull/6)
 + Check out my [workstation setup](https://github.com/kiselev-nikolay/nikolai-workstation)
 
 
