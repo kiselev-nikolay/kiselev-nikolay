@@ -20,6 +20,7 @@ Direct contacts: ic.nikolai.kiselev@gmail.com [nikolai.works](https://nikolai.wo
 
 #### BTW
 
++ I made a easily reproducible [arduino macros keyboard](https://github.com/kiselev-nikolay/arduino-macro-keyboard). It's very simple, really. The main thing is to decide...
 + I made a Gin <img width="16px" src="https://raw.githubusercontent.com/kiselev-nikolay/logo/master/color.png"> [logo proposal: Fancy one](https://github.com/gin-gonic/logo/pull/6)
 + Check out my [workstation setup](https://github.com/kiselev-nikolay/nikolai-workstation)
 
